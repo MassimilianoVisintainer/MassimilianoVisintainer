@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)]()
 
 <h1 align="center">Hi 👋, I'm Massimiliano Visintainer</h1>
-<h3 align="center">A passionate Software from Italy, living in Portugal.</h3>
+<h3 align="center">A passionate Software Engineer from Italy, living in Portugal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massimilianovisintainer&label=Profile%20views&color=0e75b6&style=flat" alt="massimilianovisintainer" /> </p>
@@ -9,6 +9,8 @@
 - 📫 How to reach me **massimiliano.visintainer@gmail.com**
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://massimilianovisintainer.github.io/portfolio/)
 -  🌱 I’m currently learning **AI/ML**
+-  📗 Currently enrolled in a Computer Science Master
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
